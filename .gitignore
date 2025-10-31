@@ -23,3 +23,6 @@ poetry.lock
 
 # PyCharm
 .idea
+
+android_world/task_evals/information_retrieval/proto/*_pb2.py
+android_world/task_evals/information_retrieval/proto/*_pb2_grpc.py
